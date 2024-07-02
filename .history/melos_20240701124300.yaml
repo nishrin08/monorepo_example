@@ -1,0 +1,6 @@
+name: monorepo_example
+
+packages:
+  - packages/*
+
+script

@@ -1,0 +1,7 @@
+name: monorepo_example
+
+packages:
+  - packages/*
+
+scripts:
+  - analyze
