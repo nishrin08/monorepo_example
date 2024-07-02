@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/apps/counter_app/melos_counter_app.iml" filepath="$PROJECT_DIR$/apps/counter_app/melos_counter_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/counter_app2/melos_counter_app2.iml" filepath="$PROJECT_DIR$/apps/counter_app2/melos_counter_app2.iml" />
       <module fileurl="file://$PROJECT_DIR$/packages/counter_lints/melos_counter_lints.iml" filepath="$PROJECT_DIR$/packages/counter_lints/melos_counter_lints.iml" />
       <module fileurl="file://$PROJECT_DIR$/packages/counter_widget/melos_counter_widgets.iml" filepath="$PROJECT_DIR$/packages/counter_widget/melos_counter_widgets.iml" />
       <module fileurl="file://$PROJECT_DIR$/melos_monorepo_example.iml" filepath="$PROJECT_DIR$/melos_monorepo_example.iml" />
